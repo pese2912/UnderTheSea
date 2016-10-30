@@ -1,0 +1,13 @@
+Battle ship
+
+Medieval battle ship and it wrecked version.
+ 
+Ship have 124 objects, witch have 11,985 polygons and 10,829 verts. 
+Wrecked Ship have 90 objects, witch  have 8,907 polygons and 8,428 verts. 
+
+Textures in TIF file format 512x512.
+
+Ships has two floors. You can enter ship cabins.
+
+
+sailboat, sailing, ship, medieval, military, game, fantasy, wow, battleship, sail, boat, vessel, wreck, wrecked, low, poly, antique, old, ancient, spanish, armada, cannon, textures, materials, detailed, shipwreck
