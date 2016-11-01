@@ -16,6 +16,8 @@
 <h2> Game Guide</h2>
 <ul>
 
+<a img src ="C:\Users\Duedapi\Downloads\GameCtrl.png"/>
+
 
 
 
